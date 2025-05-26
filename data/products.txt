@@ -1,0 +1,5 @@
+Toothpaste,Toiletries,40,100
+Shampoo,Haircare,350,50
+Biscuits,Snacks,60,200
+Body Wash,Bath & Body,500,30
+Detergent,Household,120,40
